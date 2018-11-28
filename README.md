@@ -58,8 +58,8 @@ in order to serve your pages. However, it will run just fine on it's own if you 
 You will also need an external MySQL/MariaDB Container
 
 # Installation
-docker-compose build
-docker-compose up
+```docker-compose build```
+```docker-compose up```
 
 Automated builds of the image are available on [Docker Hub](https://hub.docker.com/r/tiredofit/freepbx) and is the recommended method of installation.
 
